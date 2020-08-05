@@ -2,7 +2,7 @@
 
 ## Bachelor Thesis project
 ### Assessment of Culex Mosquito Prone Zones using Remote Sensing and GIS
-2017
+2017 /
 •	Deciphered favorable factors for mosquito breeding and mapped the prone zones with an accuracy of 83.3%
 •	Reported 24 potential breeding sites to Greater Chennai Corporation for devising mosquito control measures
 •	Performed the analysis using Landsat 8 OLI/TIRS, Sentinel-2A and Aster DEM data
