@@ -6,6 +6,7 @@
 -	Deciphered favorable factors for mosquito breeding and 𝐦𝐚𝐩𝐩𝐞𝐝 𝐭𝐡𝐞 𝐩𝐫𝐨𝐧𝐞 𝐳𝐨𝐧𝐞𝐬 with an 𝐚𝐜𝐜𝐮𝐫𝐚𝐜𝐲 𝐨𝐟 𝟖𝟑.𝟑%
 -	Reported 𝟐𝟒 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐛𝐫𝐞𝐞𝐝𝐢𝐧𝐠 𝐬𝐢𝐭𝐞𝐬  to Greater Chennai Corporation for devising mosquito control measures
 -	Performed the spatio-temporal analysis using Landsat 8 OLI/TIRS, Sentinel-2A, and Aster DEM data\
+-	𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 Landcover map, Vegetation map, drainage map and spatial distribution map.\
 💻	𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: ArcGIS, ENVI, and field Larval data collection
 
 
