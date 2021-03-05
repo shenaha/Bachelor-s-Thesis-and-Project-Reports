@@ -1,4 +1,4 @@
-## Bachelor-s-Thesis-and-Project-Reports
+## Project-Reports
 
 ## Bachelor Thesis project
 ### Assessment of Culex Mosquito Prone Zones using Remote Sensing and GIS 🛰🦟💧
